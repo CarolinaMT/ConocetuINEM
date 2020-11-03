@@ -1,0 +1,24 @@
+table,
+th,
+td {
+  border: 2px solid black;
+  font-size: 30px;
+}
+
+table {
+  width: 70%;
+  margin: top;
+  background-color: rgb(46, 214, 23);
+  transform: translate(250px, 200px);
+}
+
+th {
+  height: 40px;
+}
+h1 {
+  font-size: 100px;
+}
+
+body {
+  background-image: url("https://user-images.githubusercontent.com/66273414/95796324-2f2b2200-0cb2-11eb-910e-1c916caf4d4d.jpg");
+}

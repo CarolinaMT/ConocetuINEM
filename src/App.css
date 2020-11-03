@@ -1,0 +1,82 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: " Grandstander", sans-serif;
+}
+
+.comenzar,
+.Dondeteencuentras,
+.Instrucciones,
+.contact-us,
+.sign-up,
+.bloques,
+.Bloquesmasbuscados {
+  display: flex;
+  height: 90vh;
+  align-items: center;
+  justify-content: center;
+  font-size: 3rem;
+}
+
+.Comenzar {
+  background-image: url("");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: rgb(0, 0, 0);
+  font-size: 50px;
+}
+
+.Dondeteencuentras {
+  background-image: url("https://user-images.githubusercontent.com/66273414/95796324-2f2b2200-0cb2-11eb-910e-1c916caf4d4d.jpg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: black;
+  font-size: 50px;
+}
+
+.Instrucciones {
+  background-image: url("https://user-images.githubusercontent.com/66273414/95796324-2f2b2200-0cb2-11eb-910e-1c916caf4d4d.jpg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: black;
+  font-size: 30px;
+}
+
+.Contact-us {
+  background-image: url("https://user-images.githubusercontent.com/66273414/95796324-2f2b2200-0cb2-11eb-910e-1c916caf4d4d.jpg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: black;
+  font-size: 20px;
+}
+.Bloques {
+  background-image: url("./images/img-6.jpg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: black;
+  font-size: 500px;
+}
+
+.Bloques2 {
+  background-image: url("./images/img-6.jpg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: black;
+  font-size: 500px;
+}
+
+.Bloquesmasbuscados {
+  background-image: url("https://user-images.githubusercontent.com/66273414/95796324-2f2b2200-0cb2-11eb-910e-1c916caf4d4d.jpg");
+  background-position: bottom;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: black;
+  font-size: 30px;
+}

@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "img": "https://user-images.githubusercontent.com/66382437/95797051-1de31500-0cb4-11eb-8ca9-083947eb073f.jpg",
+    "info": "bloque 1"
+  },
+  {
+    "id": 2,
+    "img": "https://user-images.githubusercontent.com/66382437/95798224-fa6d9980-0cb6-11eb-84ad-8b7f4029c3c7.jpg",
+    "info": "bloque 2 "
+  },
+  {
+    "id": 3,
+    "img": "https://user-images.githubusercontent.com/66382437/95797392-1112f100-0cb5-11eb-8575-21c9b9a2323e.jpg",
+    "info": "Bloque 3"
+  },
+  {
+    "id": 4,
+    "img": "https://user-images.githubusercontent.com/66260750/95798406-8253a380-0cb7-11eb-9b62-a86f9b530324.jpeg",
+    "info": "Bloque 4"
+  },
+  {
+    "id": 5,
+    "img": "https://user-images.githubusercontent.com/66260750/95798162-d9a54400-0cb6-11eb-824d-eb3d38ac20e2.jpeg",
+    "info": "bloque 5A"
+  },
+  {
+    "id": 6,
+    "img": "https://user-images.githubusercontent.com/66260750/95798058-96e36c00-0cb6-11eb-9aa1-1155238d7796.jpeg",
+    "info": "bloque 5B"
+  },
+  {
+    "id": 7,
+    "img": "https://user-images.githubusercontent.com/66260750/95797282-bf6a6680-0cb4-11eb-83b8-008c38c101a3.jpeg",
+    "info": "bloque 6A"
+  },
+  {
+    "id": 8,
+    "img": "https://user-images.githubusercontent.com/66273414/95798438-98f9fa80-0cb7-11eb-93a8-0e46328af752.jpeg",
+    "info": "bloque 6B"
+  },
+  {
+    "id": 9,
+    "img": "https://user-images.githubusercontent.com/66260750/95797327-dc9f3500-0cb4-11eb-954f-524b2b2602b0.jpeg",
+    "info": "Bloque 7A"
+  },
+  {
+    "id": 10,
+    "img": "https://user-images.githubusercontent.com/66260750/95797428-20923a00-0cb5-11eb-8662-53140691ae95.jpeg",
+    "info": "Bloque 7B"
+  },
+  {
+    "id": 11,
+    "img": "https://user-images.githubusercontent.com/66260750/95798162-d9a54400-0cb6-11eb-824d-eb3d38ac20e2.jpeg",
+    "info": "Bloque 8A"
+  },
+  {
+    "id": 12,
+    "img": "https://user-images.githubusercontent.com/66260750/95798320-4b7d8d80-0cb7-11eb-8edc-f83f04e1c3c4.jpeg",
+    "info": "Bloque 8B"
+  },
+  {
+    "id": 13,
+    "img": "https://user-images.githubusercontent.com/66260750/95797823-13297f80-0cb6-11eb-88bc-0b06d709515a.jpeg",
+    "info": "Salida Regional"
+  },
+  {
+    "id": 14,
+    "img": "https://user-images.githubusercontent.com/66260750/95797748-e9705880-0cb5-11eb-9545-e3983e421a05.jpeg",
+    "info": "Salida Vegas"
+  },
+  {
+    "id": 15,
+    "img": "https://user-images.githubusercontent.com/66382437/95797667-b037e880-0cb5-11eb-83f0-88b005095de5.jpg",
+    "info": "Capilla"
+  },
+  {
+    "id": 16,
+    "img": "https://user-images.githubusercontent.com/66382437/95797175-6d294580-0cb4-11eb-9567-d8d629c29c30.jpg",
+    "info": "Creme Helado"
+  },
+  {
+    "id": 17,
+    "img": "https://user-images.githubusercontent.com/66260750/95797669-b1691580-0cb5-11eb-9ef3-f949f64b3ff1.jpeg",
+    "info": "Canchas"
+  },
+  {
+    "id": 18,
+    "img": "https://user-images.githubusercontent.com/66260750/95797607-867ec180-0cb5-11eb-8358-d778155af1b5.jpeg",
+    "info": "Piscina"
+  },
+  {
+    "id": 19,
+    "img": "https://user-images.githubusercontent.com/66260750/95798019-7fa47e80-0cb6-11eb-9746-3264d460070e.jpeg",
+    "info": "Aula Multiple"
+  },
+  {
+    "id": 20,
+    "img": "https://user-images.githubusercontent.com/66273414/95798071-9c40b680-0cb6-11eb-8639-e266ea32b298.jpeg",
+    "info": "Coliseo nuevo"
+  }
+]
